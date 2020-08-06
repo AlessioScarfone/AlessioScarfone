@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioScarfone&hide=TeX&layout=compact)
+
+
+
 <!--
 **AlessioScarfone/AlessioScarfone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +17,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=AlessioScarfone)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AlessioScarfone&count_private=true&show_icons=true&include_all_commits=true)
+
+<br/>
 -->
