@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioScarfone&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessioScarfone&hide=TeX&layout=compact&theme=prussian)
 
 
 
